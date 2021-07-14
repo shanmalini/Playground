@@ -1,0 +1,5 @@
+var1 = input()
+var2 = input()
+print(var1*var2)
+print(var1/var2)
+print(var1%var2)
